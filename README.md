@@ -1,5 +1,5 @@
 # classesJS
 
-Repositório Git
+git Repository
 
-Adaptando um pouco mais os conhecimentos em JS, conhecendo "Classes".
+Adapting a little more knowledge in JS, knowing "Classes".
